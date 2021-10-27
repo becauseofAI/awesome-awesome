@@ -58,4 +58,7 @@ https://github.com/benedekrozemberczki/awesome-graph-classification [![GitHub st
 https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-vision [![GitHub stars](https://img.shields.io/github/stars/Tom-Hardy-3D-Vision-Workshop/awesome-3D-vision.svg?logo=github&label=Stars)](https://github.com/Tom-Hardy-3D-Vision-Workshop/awesome-3D-vision)  
 https://github.com/Hub-Tian/Awesome-3D-Detectors [![GitHub stars](https://img.shields.io/github/stars/Hub-Tian/Awesome-3D-Detectors.svg?logo=github&label=Stars)](https://github.com/Hub-Tian/Awesome-3D-Detectors)
 
-:loudspeaker:Welcome to recommend!:clap:
+## Image Retrieval
+https://github.com/willard-yuan/awesome-cbir-papers [![GitHub stars](https://img.shields.io/github/stars/willard-yuan/awesome-cbir-papers.svg?logo=github&label=Stars)](https://github.com/willard-yuan/awesome-cbir-papers)  
+
+:loudspeaker: Welcome to recommend! :clap:
