@@ -61,4 +61,7 @@ https://github.com/Hub-Tian/Awesome-3D-Detectors [![GitHub stars](https://img.sh
 ## Image Retrieval
 https://github.com/willard-yuan/awesome-cbir-papers [![GitHub stars](https://img.shields.io/github/stars/willard-yuan/awesome-cbir-papers.svg?logo=github&label=Stars)](https://github.com/willard-yuan/awesome-cbir-papers)  
 
+## Knowledge Distillation
+https://github.com/dkozlov/awesome-knowledge-distillation [![GitHub stars](https://img.shields.io/github/stars/dkozlov/awesome-knowledge-distillation.svg?logo=github&label=Stars)](https://github.com/dkozlov/awesome-knowledge-distillation)  
+
 :loudspeaker: Welcome to recommend! :clap:
