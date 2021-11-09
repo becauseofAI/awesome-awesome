@@ -13,6 +13,8 @@ https://github.com/yzhao062/anomaly-detection-resources [![GitHub stars](https:/
 https://github.com/hoya012/awesome-anomaly-detection [![GitHub stars](https://img.shields.io/github/stars/hoya012/awesome-anomaly-detection.svg?logo=github&label=Stars)](https://github.com/hoya012/awesome-anomaly-detection)
 ### edge detection
 https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers [![GitHub stars](https://img.shields.io/github/stars/MarkMoHR/Awesome-Edge-Detection-Papers.svg?logo=github&label=Stars)](https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers)
+### few-shot detection
+https://github.com/gabrielhuang/awesome-few-shot-object-detection [![GitHub stars](https://img.shields.io/github/stars/gabrielhuang/awesome-few-shot-object-detection.svg?logo=github&label=Stars)](https://github.com/gabrielhuang/awesome-few-shot-object-detection)
 
 ## Segmentation
 https://github.com/mrgloom/awesome-semantic-segmentation [![GitHub stars](https://img.shields.io/github/stars/mrgloom/awesome-semantic-segmentation.svg?logo=github&label=Stars)](https://github.com/mrgloom/awesome-semantic-segmentation)
@@ -46,6 +48,9 @@ https://github.com/xinario/awesome-gan-for-medical-imaging [![GitHub stars](http
 https://github.com/ChanChiChoi/awesome-Face_Recognition [![GitHub stars](https://img.shields.io/github/stars/ChanChiChoi/awesome-Face_Recognition.svg?logo=github&label=Stars)](https://github.com/ChanChiChoi/awesome-Face_Recognition)  
 https://github.com/becauseofAI/HelloFace [![GitHub stars](https://img.shields.io/github/stars/becauseofAI/HelloFace.svg?logo=github&label=Stars)](https://github.com/becauseofAI/HelloFace)  
 https://github.com/polarisZhao/awesome-face [![GitHub stars](https://img.shields.io/github/stars/polarisZhao/awesome-face.svg?logo=github&label=Stars)](https://github.com/polarisZhao/awesome-face)
+
+## Hand
+https://github.com/SeanChenxy/Hand3DResearch [![GitHub stars](https://img.shields.io/github/stars/SeanChenxy/Hand3DResearch.svg?logo=github&label=Stars)](https://github.com/SeanChenxy/Hand3DResearch)
 
 ## Text
 https://github.com/hwalsuklee/awesome-deep-text-detection-recognition [![GitHub stars](https://img.shields.io/github/stars/hwalsuklee/awesome-deep-text-detection-recognition.svg?logo=github&label=Stars)](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition)  
